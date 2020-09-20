@@ -28,4 +28,4 @@ def approxEntropy(N, p):
     Khi N càng lớn thì approxEntropy(N, p) càng xấp xỉ với entropy nên hàm này cho phép tính xấp xỉ entropy.
     """
 
-    print(approxEntropy(100, 0.5))
+print(approxEntropy(100, 0.5))

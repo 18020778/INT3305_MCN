@@ -28,4 +28,4 @@ def approxEntropy(N, p, r):
     entropy là một dãy dương, tăng và có giới hạn là entropy của biến ngẫu nhiên nhị thức âm
     Do đó khi N càng lớn, hàm approxEntropy sẽ tiến đến entropy của biến ngẫu nhiên nhị thức âm và hàm này có thể dùng để tính xấp xỉ entropy
     """
-     print(sumProb(1000, 0.5, 4))
+print(sumProb(1000, 0.5, 4))
